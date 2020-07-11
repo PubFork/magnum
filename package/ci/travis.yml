@@ -73,7 +73,7 @@ matrix:
         - libopenal-dev
   - language: cpp
     os: linux
-    dist: xenial
+    dist: bionic
     compiler: gcc
     env:
     - JOBID=linux-vulkan
